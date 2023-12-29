@@ -1,0 +1,17 @@
+#skills {
+  margin-top: 20px;
+}
+
+#skills ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#skills li {
+  display: inline-block;
+  margin: 5px;
+  padding: 8px 12px;
+  background-color: #3498db;
+  color: #fff;
+  border-radius: 4px;
+}
