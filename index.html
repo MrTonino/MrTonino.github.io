@@ -73,6 +73,25 @@
         <a href="/assets/CV.pdf" target="_blank">Download Resume</a>
         <!--This CV is also saved in word so as to edit and update as the need arises -->
       </section>
+      <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Feel free to reach out to me using the form below or via email.</p>
+
+        <form action="https://formspree.io/your-email" method="POST">
+          <!--"https://formspree.io/your-email" to be replaced 
+            with the actual Formspree endpoint or my preferred form handling service later -->
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name" required />
+
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required />
+
+          <label for="message">Message:</label>
+          <textarea id="message" name="message" required></textarea>
+
+          <button type="submit">Send Message</button>
+        </form>
+      </section>
     </body>
   </body>
 </html>
