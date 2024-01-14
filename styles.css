@@ -22,3 +22,18 @@
   }
   /* Other styles to be adjusted as needed here */
 }
+#social-media ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#social-media li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+#social-media a {
+  text-decoration: none;
+  color: #3498db;
+  font-weight: bold;
+}
