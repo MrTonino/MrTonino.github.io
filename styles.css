@@ -37,3 +37,20 @@
   color: #3498db;
   font-weight: bold;
 }
+body {
+  font-family: "Arial", sans-serif;
+  color: #333;
+  background-color: #f8f8f8;
+}
+
+#header {
+  background-color: #3498db;
+  color: #fff;
+  padding: 20px;
+}
+
+#social-media a {
+  color: #3498db;
+}
+
+/* Add more styles as needed */
