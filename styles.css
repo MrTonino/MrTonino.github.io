@@ -11,8 +11,8 @@
   display: inline-block;
   margin: 5px;
   padding: 8px 12px;
-  background-color: #3498db;
-  color: #fff;
+  background-color: #22092c;
+  color: #e8e6e9;
   border-radius: 4px;
 }
 @media only screen and (max-width: 600px) {
@@ -40,7 +40,7 @@
 body {
   font-family: "Arial", sans-serif;
   color: #333;
-  background-color: #f8f8f8;
+  background-color: #d2cdd4;
 }
 
 #header {
