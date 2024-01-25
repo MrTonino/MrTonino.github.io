@@ -70,5 +70,9 @@ article a {
   text-decoration: none;
   color: #3498db;
 }
+Ul {
+  display: flex;
+  flex-direction: row;
+}
 
 /* Add more styles as needed */
