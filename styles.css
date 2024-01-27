@@ -13,7 +13,7 @@
   padding: 8px 12px;
   background-color: #22092c;
   color: #e8e6e9;
-  border-radius: 4px;
+  border-radius: 10px;
 }
 @media only screen and (max-width: 600px) {
   /* Styles for smaller screens  to be added here*/
