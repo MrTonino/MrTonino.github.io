@@ -1,0 +1,78 @@
+#skills {
+  margin-top: 20px;
+}
+
+#skills ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#skills li {
+  display: inline-block;
+  margin: 5px;
+  padding: 8px 12px;
+  background-color: #22092c;
+  color: #e8e6e9;
+  border-radius: 10px;
+}
+@media only screen and (max-width: 600px) {
+  /* Styles for smaller screens  to be added here*/
+  body {
+    font-size: 14px;
+  }
+  /* Other styles to be adjusted as needed here */
+}
+#social-media ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#social-media li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+#social-media a {
+  text-decoration: none;
+  color: #3498db;
+  font-weight: bold;
+}
+body {
+  font-family: "Arial", sans-serif;
+  color: #333;
+  background-color: #d2cdd4;
+}
+
+#header {
+  background-color: #3498db;
+  color: #fff;
+  padding: 20px;
+}
+
+#social-media a {
+  color: #3498db;
+}
+#blog {
+  margin-top: 20px;
+}
+
+article {
+  margin-bottom: 30px;
+}
+
+article h3 {
+  margin-bottom: 10px;
+}
+
+article a {
+  display: inline-block;
+  margin-top: 8px;
+  text-decoration: none;
+  color: #3498db;
+}
+Ul {
+  display: flex;
+  flex-direction: row;
+}
+
+/* Add more styles as needed */
